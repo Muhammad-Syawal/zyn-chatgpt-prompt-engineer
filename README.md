@@ -1,4 +1,4 @@
-# zyn-chatgpt-prompt-engineer
+# Instantly Analyze & Optimize Your AI Prompts — ZYN Custom GPT for ChatGPT
 
 [![Try on ChatGPT](https://img.shields.io/badge/Try%20on-ChatGPT-10a37f?logo=openai&logoColor=white)](https://chatgpt.com/g/g-687217dd50d88191b954da7608e54609-zyn)
 
