@@ -29,7 +29,7 @@
 - **Save time:** Cut prompt iteration cycles and manual trial-and-error.
 - **Boost results:** Achieve more accurate, consistent, and effective AI responses.
 - **Level up:** Learn advanced prompt engineering from expert-designed recommendations.
-- **No install required:** Access instantly—just click and use.
+- **No install required:** Access instantly. Just click and use.
 
 ---
 
